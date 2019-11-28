@@ -1,0 +1,6 @@
+BASE_URL="baseurl_flavour2"
+APPBUILDTYPE="flavors2"
+BUILDTYPEENVIRONMENT="PROD_flavour2"
+WEBSITEURL="https://website.com/"
+BASEFOLDERNAME="flavour2"
+DB_NAME="flavour2"
